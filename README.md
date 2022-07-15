@@ -7,6 +7,9 @@
 
 - HTML
 - CSS
+
+## Linguagem de programação usada
+
 - JavaScript
 
 <h2>✔ Autor: </h2>
